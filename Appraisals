@@ -1,5 +1,4 @@
 appraise "rails30" do
-  gem "rails", "3.0.20"
 end
 
 appraise "rails31" do
